@@ -1,6 +1,6 @@
 -----------------------------------------<br/>
--MATA KULIAH PEMOGRAMAN WEB- <br/>
+-MATA KULIAH PEMOGRAMAN WEB-            |<br/>
 -----------------------------------------<br/>
-NAMA  : AMIRAH AULIA FITRI <br/>
-NPM   : 18081010029<br/>
-------------------------------------------<br/>
+NAMA  : AMIRAH AULIA FITRI              |<br/>
+NPM   : 18081010029                     |<br/>
+-----------------------------------------<br/>
