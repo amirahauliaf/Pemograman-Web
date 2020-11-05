@@ -1,0 +1,87 @@
+a{
+    text-decoration: none;
+}
+.nav{
+    background-color:  #bebbb9;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+}
+.nav img{
+    width: 50px;
+}
+.nav a {
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+ }
+ 
+.tampil img{
+     width: 20px;
+ }
+.container{
+    width: 90%;
+    margin: 0 auto;
+    box-shadow: 0 3px 5px #ddd;
+}
+.container::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.card{
+    width: 90%;
+    margin: 50px auto;
+    padding: 10px;
+}
+.judul{
+    width: 100%;
+    margin: 0 auto;
+    background-color: pink;
+    text-align: center;
+}
+.card h3{
+    padding: 20px;
+    font-size: 30px;
+}
+.tambah{
+    width: 20%;
+    background-color: #92a6e9;
+    margin: 0;
+    text-align: center;
+}
+.tambah a{
+
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #818181;
+ }
+ 
+ th,
+ td {
+    text-align: center;
+    padding: 16px;
+ }
+ th {
+     background-color:#818181;
+     color: white;
+    
+ }
+.navtambah{
+    background-color: pink;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    text-align: center;
+}
+.navtambah img{
+    width: 40px;
+}
+
